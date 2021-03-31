@@ -9,6 +9,7 @@
   },
     "Task": {
 	    "title": "string",
-	    "type": "string"
+	    "type": "string",
+	    "user": "User"
 	  }
 }
