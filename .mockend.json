@@ -8,6 +8,7 @@
     "createdAt": "date"
   },
     "Hobby": {
-	    "name": "string"
+	    "title": "string",
+	    "type": "string"
 	  }
 }
