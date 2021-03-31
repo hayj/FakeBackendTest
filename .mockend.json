@@ -1,1 +1,10 @@
-aaa
+{
+  "User": {
+    "name": "string",
+    "stars": "int",
+    "hobbies": "string[]",
+    "right1": "boolean",
+    "right2": "boolean",
+    "createdAt": "date"
+  }
+}
